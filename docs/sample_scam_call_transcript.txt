@@ -1,0 +1,4 @@
+Caller: This is Apple Security. We detected a fraud hold on your Apple account.
+Caller: Do not hang up or tell anyone until we finish verification.
+Caller: Open https://appleid-security-login.xyz/account right now so we can secure the account.
+Caller: If the page fails, read me the Apple gift card PIN so I can verify ownership.

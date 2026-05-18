@@ -1,0 +1,9 @@
+.build/
+dist/
+.DS_Store
+submission/video/exports/
+
+# Local Gemma/LiteRT model artifacts are too large for a normal public repo.
+# Keep instructions in models/README.md instead.
+models/*.litertlm
+models/*_mldrift_*.bin
